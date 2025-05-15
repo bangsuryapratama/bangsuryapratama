@@ -1,7 +1,6 @@
 <h1 align="center">👋 Hello I'm Surya Pratama</h1>
 <p align="center">💻 SMK ASSALAAM STUDENT</p>
-<p align="center">
-  <p align="center"> 
+ <p align="center"> 
     ㅤㅤㅤ   ⣴⣿⣦⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣿⣿⠂⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿⣀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -19,6 +18,7 @@
 ⠀⠀⠀⢀⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣆⠀
 ⠀⠀⠠⢾⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣷⡤⠄
   </p>
+<p align="center">
   <img src="https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-purple?logo=php&logoColor=white" />
