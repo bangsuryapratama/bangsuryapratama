@@ -15,16 +15,6 @@
   <img src="https://img.shields.io/badge/Video%20Editing-999999?logo=adobe-premiere-pro&logoColor=white" alt="Video Editing" />
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UpidDuo&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UpidDuo&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
 
 ### 🌍 Visitor Counter
 
