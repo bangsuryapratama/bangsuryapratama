@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/badge/PHP-purple?logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-red?logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nodejs=nodejs&logoColor=white" />
   <img src="https://img.shields.io/badge/Video%20Editing-grey?logo=adobe-premiere-pro&logoColor=white" />
 </p>
 
