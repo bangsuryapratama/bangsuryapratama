@@ -2,34 +2,40 @@
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-Software Developer passionate about building scalable and maintainable applications. Experienced with PHP, Laravel, MySQL, and modern web technologies.
-
----
-
-## Skills
-
-- PHP, Laravel
-- JavaScript, HTML5, CSS3
-- MySQL, PostgreSQL
-- Git, Docker, REST APIs
+Software Developer specializing in backend and web development.  
+Passionate about writing clean, efficient code and building scalable solutions.
 
 ---
 
-## Projects
+## 🛠 Tech Stack
 
-- [Portfolio Website](https://github.com/username/portfolio) — Personal portfolio and blog  
-- [UpidDuo](https://github.com/username/upidduo) — YouTube gaming & tutorial channel repo  
-- [Game Simulator](https://github.com/username/gamesim) — Simulation game project
-
----
-
-## Contact
-
-- Email: surya@email.com  
-- LinkedIn: [linkedin.com/in/suryapratama](https://linkedin.com/in/suryapratama)  
+| Backend         | Frontend        | Tools           |
+|-----------------|-----------------|-----------------|
+| PHP, Laravel    | HTML5, CSS3     | Git, Docker     |
+| MySQL, PostgreSQL | JavaScript (ES6+) | REST APIs       |
 
 ---
 
-*Thank you for visiting my profile.*
+## 📂 Projects
+
+- [Portfolio Website](https://github.com/username/portfolio)  
+  A sleek personal portfolio showcasing my skills and projects.
+
+- [UpidDuo Channel](https://github.com/username/upidduo)  
+  Repository for content and scripts related to my YouTube gaming channel.
+
+- [Game Simulator](https://github.com/username/gamesim)  
+  A simulation game project combining realistic gameplay and engaging mechanics.
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=flat-square&logoColor=white)](https://linkedin.com/in/suryapratama)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&style=flat-square&logoColor=white)](mailto:surya@email.com)  
+
+---
+
+Thank you for stopping by 👋
