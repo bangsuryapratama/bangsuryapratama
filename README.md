@@ -1,7 +1,7 @@
 
 # Hi there! 👋
 
-## Surya Pratama
+## I'm Surya Pratama
 
 ### Tech Stack
 
