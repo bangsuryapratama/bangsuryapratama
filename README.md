@@ -16,6 +16,6 @@ I'm **Surya Pratama**, a passionate web developer from Indonesia 🇮🇩
 
 - Email: bangsuryapratama@gmail.com  
 - GitHub: [github.com/bangsuryapratama](https://github.com/bangsuryapratama)
-- LinkedIn: [linkedin.com/in/suryapratama](https://linkedin.com/in/surya-pratama)
+
 
 ---
