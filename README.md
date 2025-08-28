@@ -21,7 +21,7 @@ Here are some technologies I work with:
 ---
 
 ### 🌟 GitHub Stats
-![Surya's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
+![Surya's GitHub stats](https://github-readme-stats.vercel.app/api?username=bangsuryapratama&show_icons=true&theme=radical)
 
 ---
 
