@@ -32,7 +32,7 @@ I'm a **Web Developer** who loves creating websites and learning new technologie
 
 ## 📫 Let's Connect!
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bangsuryapratama)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hellbangsur._)
 
 ---
 
