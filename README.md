@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Surya Pratama
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Web+Developer+%7C+Tech+Enthusiast;Always+Learning+%26+Growing!;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Web+Developer+%7C+Tech+Enthusiast;Always+Learning+%26+Growing!" alt="Typing SVG" />
 </div>
 
 ---
