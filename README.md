@@ -4,11 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Web+Developer+%7C+Tech+Enthusiast;Always+Learning+%26+Growing!;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=suryapratama&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/suryapratama?label=Followers&style=social" alt="GitHub followers" />
-</div>
-
 ---
 
 ## 🚀 About Me
@@ -96,14 +91,6 @@ const surya = {
 
 ---
 
-## 💭 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
-
----
-
 <div align="center">
   
 ### 🌟 *"You don't evolve in crowds, you evolve in silence."* 🌟
@@ -117,5 +104,5 @@ const surya = {
 ---
 
 <div align="center">
-  <sub>⭐️ From <a href="https://github.com/suryapratama">Surya Pratama</a> with 💙</sub>
+  <sub>From <a href="https://github.com/suryapratama">Surya Pratama</a> with 💙</sub>
 </div>
