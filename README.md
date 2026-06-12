@@ -77,14 +77,6 @@ Saya menggabungkan logika *backend* yang kuat dengan desain *user interface* mod
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bangsuryapratama&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Surya Pratama GitHub Trophies" />
-</div>
-
----
-
 ## 🤝 Let's Connect & Collaborate
 
 Saya selalu terbuka untuk kolaborasi **Open Source**, kerjasama *freelance*, atau diskusi seputar teknologi.
