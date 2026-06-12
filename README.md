@@ -43,7 +43,7 @@ Saya menggabungkan logika *backend* yang kuat dengan desain *user interface* mod
 | 📍 **Location** | Bandung, Indonesia 🇮🇩 |
 | 🎓 **Education** | SMK Assalaam Bandung — Rekayasa Perangkat Lunak |
 | 💻 **Specialization** | Web Development (Laravel) & Mobile Apps (Flutter) |
-| 🌐 **Portfolio** | [bangsuryapratama.dev](https://bangsuryapratama.dev) |
+| 🌐 **Portfolio** | [bangsurstudio.vercel.app](https://bangsurstudio.vercel.app) |
 | 📬 **Email** | bangsuryapratama@gmail.com |
 | ⚡ **Fun Fact** | I believe clean code is a form of art. |
 
