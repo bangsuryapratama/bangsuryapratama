@@ -16,7 +16,7 @@
 
   <!-- Social Badges -->
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bangsuryapratama)
-  [![Website](https://img.shields.io/badge/Website-1D9E75?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bangsurstudio.vercel.app)
+  [![Website](https://img.shields.io/badge/Website-1D9E75?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bangsurstudio.my.id/)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hellbangsur._)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bangsuryapratama@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bangsuryapratama)
@@ -84,7 +84,7 @@ Saya selalu terbuka untuk kolaborasi **Open Source**, kerjasama *freelance*, ata
 <div align="center">
 
   [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bangsuryapratama)
-  [![Website](https://img.shields.io/badge/Visit_My_Website-1D9E75?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bangsurstudio.vercel.app)
+  [![Website](https://img.shields.io/badge/Visit_My_Website-1D9E75?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bangsurstudio.my.id/)
   [![Instagram](https://img.shields.io/badge/Follow_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hellbangsur._)
   [![Gmail](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bangsuryapratama@gmail.com)
   [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bangsuryapratama)
