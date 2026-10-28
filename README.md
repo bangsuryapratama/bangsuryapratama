@@ -8,42 +8,55 @@
 <div align="center">
 
   <!-- ===================================================================== -->
-  <!-- HACKED MEGA-SCENE: PIXEL NIGHT CITY + DRIVING SUPERCAR + FLYING MONEY -->
+  <!-- 100% PURE PIXEL ART SCENE: 8-BIT SUPERCAR CRUISE + PIXEL MONEY RAIN   -->
   <!-- ===================================================================== -->
+  <table border="0" cellspacing="0" cellpadding="0" width="100%">
+    <tr>
+      <!-- KIRI: PIXEL ART 8-BIT MOBIL MALAM HARI -->
+      <td width="62%" align="center">
+        <a href="https://bangsurstudio.my.id">
+          <img src="https://i.pinimg.com/originals/65/1c/69/651c695a727e42407130d210fbc2cf5b.gif" width="100%" height="250" alt="8-Bit Pixel Car Night Drive" />
+        </a>
+      </td>
+      <!-- KANAN: PIXEL ART 8-BIT KARAKTER SULTAN + HUJAN DUIT -->
+      <td width="38%" align="center">
+        <a href="https://bangsurstudio.my.id">
+          <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0b3h5am56eG54bm16eG54bm16eG54bm16eG54bm16eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0Ex6kAKAoFRsFh6M/giphy.gif" width="100%" height="250" alt="8-Bit Pixel Money Rain" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+  <!-- 8-BIT PIXEL ART ASCII/BLOCK SPRITE ENGINE (ANIMATED ON GITHUB) -->
   <a href="https://bangsurstudio.my.id">
-    <!-- Layer 1: Dark Emerald Cyberpunk Sky & Neon HUD Banner -->
-    <img src="https://capsule-render.vercel.app/api?type=Giraffe&color=0:05070B,50:064E3B,100:10B981&height=130&section=header&text=BANGSUR%20STUDIO%20%E2%80%94%20BOSS%20MODE&fontSize=28&fontColor=10B981&animation=blinking&fontAlignY=42&desc=%5B%20CASHFLOW%3A%20%24999%2C999%2C999%2B%20%5D%20%E2%80%A2%20%5B%20BANDUNG%20STREET%20SYNDICATE%20%5D&descSize=13&descColor=A7F3D0&descAlignY=72" width="100%" alt="HUD Header" />
-    <!-- Layer 2: Animated Flying Cash Trail (Dynamic SVG Engine Hack) -->
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=1400&pause=100&color=10B981&background=090D16&center=true&vCenter=true&width=900&height=65&lines=%F0%9F%92%B8+%24%24%24+%F0%9F%92%B5+%F0%9F%92%B0+%F0%9F%92%B8+%24%24%24+%F0%9F%92%B5+%E2%94%80%E2%94%80%E2%94%80%E2%95%8D%F0%9F%95%B6%EF%B8%8F%F0%9F%8F%8E%EF%B8%8F%F0%9F%92%A8+%5BBANGSUR%5D;%F0%9F%92%B0+%F0%9F%92%B8+%24%24%24+%F0%9F%92%B5+%E2%94%80%E2%94%80%E2%95%8D%F0%9F%92%B8+%F0%9F%92%B0+%F0%9F%95%B6%EF%B8%8F%F0%9F%8F%8E%EF%B8%8F%F0%9F%94%A5+%E2%94%80%E2%94%80%E2%94%80+%5BFULLSTACK+BOSS%5D;%24%24%24+%F0%9F%92%B5+%F0%9F%92%B8+%F0%9F%92%B0+%F0%9F%92%B8+%24%24%24+%F0%9F%92%B5+%F0%9F%92%B0+%E2%94%80%E2%94%80%E2%95%8D%F0%9F%95%B6%EF%B8%8F%F0%9F%8F%8E%EF%B8%8F%E2%9A%A1+%5BSHIPPING+CODE%5D" width="100%" alt="Supercar Money Rain Animation" />
-    <!-- Layer 3: Full-Width Pixel Art Night Supercar Drive + Money Rain Scene -->
-    <img src="https://raw.githubusercontent.com/Skyline-23/Skyline-23/main/assets/banner.gif" onerror="this.src='https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif'" width="100%" height="260" style="object-fit: cover; border-radius: 12px;" alt="Pixel Art Night Drive" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=1800&pause=400&color=10B981&background=090D16&center=true&vCenter=true&width=900&height=54&lines=%5B%24%5D+%5B%24%5D+%5B%24%5D+%E2%96%91%E2%96%92%E2%96%93%E2%96%88%E2%96%84%E2%96%84%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%84%E2%96%84%E2%96%88%E2%96%88%E2%96%80%E2%96%84+%3E%3E+BANGSUR.EXE+CRUISING;CASHFLOW%3A+999%2C999%2C999+XP+%7C+LVL+99+FULLSTACK+BOSS;BUILDING+IN+SILENCE+%E2%80%A2+BANDUNG+UNDERGROUND+DEV" width="100%" alt="8-Bit Pixel HUD" />
   </a>
 
   <br/><br/>
 
-  <!-- TYPING SUB-HERO -->
+  <!-- PIXEL FONT HERO TEXT (MENGGUNAKAN FONT ARCADE 'PRESS START 2P') -->
   <a href="https://bangsurstudio.my.id">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=720&lines=Surya+Pratama+(Bangsur)+%E2%80%94+Software+Engineer;Laravel+%26+Flutter+Specialist+%7C+Bandung%2C+ID+%F0%9F%87%AE%F0%9F%87%A9;You+don't+evolve+in+crowds%2C+you+evolve+in+silence.+%F0%9F%92%B8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=3000&pause=1000&color=E2E8F0&center=true&vCenter=true&width=750&lines=SURYA+PRATAMA+(BANGSUR);LARAVEL+%26+FLUTTER+SPECIALIST;CLEAN+CODE+%3D+BIG+MONEY+%5B%24%24%24%5D" alt="Pixel Hero Title" />
   </a>
 
   <br/>
 
-  <!-- LOWKEY MONOCHROME BADGE BAR (DARK EMERALD ACCENTS) -->
+  <!-- LOWKEY PIXEL-STYLE FLAT SQUARE BADGES -->
   <p align="center">
     <a href="https://bangsurstudio.my.id/">
-      <img src="https://img.shields.io/badge/WEBSITE-bangsurstudio.my.id-0D1117?style=for-the-badge&logo=googlechrome&logoColor=10B981&labelColor=161B22" alt="Website" />
+      <img src="https://img.shields.io/badge/WEB-bangsurstudio.my.id-10B981?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Website" />
     </a>
     <a href="https://linkedin.com/in/bangsuryapratama">
-      <img src="https://img.shields.io/badge/LINKEDIN-Surya_Pratama-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=161B22" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/IN-Surya_Pratama-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" />
     </a>
     <a href="https://www.instagram.com/suryapratamaa.__/">
-      <img src="https://img.shields.io/badge/INSTAGRAM-@suryapratamaa.__-0D1117?style=for-the-badge&logo=instagram&logoColor=F43F5E&labelColor=161B22" alt="Instagram" />
+      <img src="https://img.shields.io/badge/IG-@suryapratamaa.__-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=0D1117" alt="Instagram" />
     </a>
     <a href="mailto:bangsuryapratama@gmail.com">
-      <img src="https://img.shields.io/badge/GMAIL-Contact_Me-0D1117?style=for-the-badge&logo=gmail&logoColor=FACC15&labelColor=161B22" alt="Gmail" />
+      <img src="https://img.shields.io/badge/MAIL-bangsuryapratama-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0D1117" alt="Gmail" />
     </a>
     <a href="https://github.com/bangsuryapratama">
-      <img src="https://komarev.com/ghpvc/?username=bangsuryapratama&label=VIEWS&color=10B981&style=for-the-badge" alt="Profile Views" />
+      <img src="https://komarev.com/ghpvc/?username=bangsuryapratama&label=VIEWS&color=10B981&style=flat-square" alt="Profile Views" />
     </a>
   </p>
 
@@ -51,21 +64,19 @@
 
 ---
 
-### ⚡ `whoami`
+### 🕹️ `PLAYER_1_STATS.json`
 
-```yaml
-name       : Surya Pratama (Bangsur)
-role       : Fullstack Web & Mobile Developer
-location   : Bandung, Indonesia 🇮🇩
-education  : SMK Assalaam Bandung — Rekayasa Perangkat Lunak (RPL)
-portfolio  : [https://bangsurstudio.my.id](https://bangsurstudio.my.id)
-email      : bangsuryapratama@gmail.com
-
-arsenal:
-  backend  : [PHP, Laravel, MySQL, REST API]
-  mobile   : [Flutter, Dart]
-  frontend : [JavaScript, Tailwind CSS, Bootstrap, HTML5, CSS3]
-  tools    : [Git, GitHub, VS Code, Postman, Figma]
-
-philosophy : "You don't evolve in crowds, you evolve in silence."
-fun_fact   : "I believe clean code is a form of art — and high-value asset. 💸"
+```json
+{
+  "player": "Surya Pratama (Bangsur)",
+  "class": "Fullstack Web & Mobile Engineer",
+  "guild": "SMK Assalaam Bandung — Rekayasa Perangkat Lunak (RPL)",
+  "server": "Bandung, Indonesia 🇮🇩",
+  "base_url": "[https://bangsurstudio.my.id](https://bangsurstudio.my.id)",
+  "email": "bangsuryapratama@gmail.com",
+  "equipped_weapons": {
+    "backend": ["PHP", "Laravel", "MySQL", "REST API"],
+    "mobile": ["Flutter", "Dart", "GetX"],
+    "frontend": ["JavaScript", "Tailwind CSS", "Bootstrap", "HTML5", "CSS3"],
+    "tools": ["Git", "GitHub", "VS Code", "Postman", "Figma"]
+  },
