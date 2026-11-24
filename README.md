@@ -92,23 +92,26 @@ technologies i've worked with and continue to explore.
 
 **languages & frameworks**
 
-<p>
-<img src="https://skillicons.dev/icons?i=php,laravel,javascript,nodejs,react,flutter,dart,html,css" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,javascript,nodejs,react,flutter,dart,html,css" />
 </p>
 
 **tools & environment**
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,firebase,vercel" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,firebase,vercel" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
 **areas i'm exploring**
 
-<p>
-<img src="https://img.shields.io/badge/artificial%20intelligence-111827?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/ai--assisted%20development-111827?style=flat-square&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/automation-111827?style=flat-square&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/product%20building-111827?style=flat-square&logo=producthunt&logoColor=white" />
+<p align="left">
+  <img src="https://img.shields.io/badge/artificial%20intelligence-111827?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/ai--assisted%20development-111827?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/automation-111827?style=flat-square&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/product%20building-111827?style=flat-square&logo=producthunt&logoColor=white" />
 </p>
 
 ---
