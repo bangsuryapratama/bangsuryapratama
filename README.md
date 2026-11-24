@@ -99,7 +99,7 @@ technologies i've worked with and continue to explore.
 **tools & environment**
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,firebase,vercel,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,firebase,vercel" />
 </p>
 
 **areas i'm exploring**
